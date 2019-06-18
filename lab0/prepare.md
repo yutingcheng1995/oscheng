@@ -59,4 +59,4 @@ mouse: enabled=0
 ```
 - 运行bochs -f bochsrc
 
-！[]（https://github.com/yutingcheng1995/oscheng/tree/master/lab0/1.png）
+！[]（lab0/1.png）
