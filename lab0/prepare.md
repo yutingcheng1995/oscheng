@@ -58,4 +58,5 @@ mouse: enabled=0
 #keyboard_mapping: enabled=1, map=/usr/share/bochs/keymaps/x11-pc-us.map
 ```
 - 运行bochs -f bochsrc
-- ！[]（https://github.com/yutingcheng1995/oscheng/new/master/1.jpg）
+
+！[]（https://github.com/yutingcheng1995/oscheng/tree/master/lab0/1.png）
